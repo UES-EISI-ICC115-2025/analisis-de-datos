@@ -1,0 +1,23 @@
+numero_pregunta,pregunta
+1,Marca temporal
+2,Edad
+3,Ubicación
+4,Servicios contratados
+5,¿Cómo calificaría su nivel de conocimiento tecnológico?
+6,¿Cuál es su canal preferido para contactar a su proveedor cuando tiene un problema?
+7,¿Con qué frecuencia contacta al servicio de atención al cliente de su(s) proveedor(es)?
+8,¿Cuál fue la causa del último problema por el que contactó al servicio al cliente?
+9,¿Cuál fue la solución que le ofrecieron en ese caso?
+10,¿Requirió la visita técnica de un técnico presencial para resolverlo?
+11,¿Cuánto tiempo tomó resolver el problema desde que lo reportó?
+12,"Si contactó por mensajería (WhatsApp u otro), ¿fue atendido por un agente humano o
+por un bot/chat automático?"
+13,¿Cómo calificaría el servicio recibido en esa ocasión?
+14,"¿Volvería a contactar al servicio de atención para intentar resolver un problema similar
+en el futuro, o preferiría intentar repararlo usted mismo o convive con el problema sin
+contactar?"
+15, ¿Cuánto tiempo pasó el problema antes de que decidiera contactar al servicio?
+16,"En sus palabras, ¿podría describir brevemente el flujo por el que pasó desde que
+reportó el problema hasta la resolución?"
+17,"Marque los problemas más frecuentes que tiene con su servicio (marque todas las
+que apliquen):"
